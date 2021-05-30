@@ -1,2 +1,2 @@
 # figureStore
-用于MarkDown图床
+用于markdown图床
